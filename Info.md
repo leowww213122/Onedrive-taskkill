@@ -1,5 +1,5 @@
 # OneDrive Taskkill
-One drives es uno de los mas pesados para que te dicee mensajes al sacar capturas otras cosas ,etc
+One drives es uno de los mas pesados para que te dice mensajes al sacar capturas otras cosas ,etc
 hoy yo cree este progama para hacer taskkill facil !
 #
 #
