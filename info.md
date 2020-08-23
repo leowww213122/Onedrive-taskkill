@@ -2,6 +2,9 @@
 One drives es uno de los mas pesados para que te dicee mensajes al sacar capturas otras cosas ,etc
 hoy yo cree este progama para hacer taskkill facil !
 #esto es
+#
+#
+#
 #.
 #..
 #... ONEDRIVE TASKKILL ! 
