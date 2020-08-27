@@ -10,13 +10,13 @@ hoy yo cree este progama para hacer taskkill facil !
 # .
 # ..
 # ... ONEDRIVE TASKKILL ! 
-link para ir a las descargas de la version actual : https://github.com/leowww213122/Onedrive-taskkill/releases/tag/2.0
+link para ir a las descargas de la version actual : https://github.com/leowww213122/Onedrive-taskkill/releases/tag/2.0.1
 #
 #
 #
 #
 #
-# version actual : 2.0 Xversion
+# version actual : 2.0.1
 #
 #
 # Proyecto creada por leo
