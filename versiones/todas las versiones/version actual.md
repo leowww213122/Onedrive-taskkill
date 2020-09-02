@@ -1,2 +1,2 @@
-# version actual 2.0.1 manualmente
+# version actual 2.0.2 SPATI manualmente
 
